@@ -1,0 +1,20 @@
+# Distribution artifacts
+*.tar.gz
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+
+# Temporary files
+/tmp/
+*.pid
