@@ -125,7 +125,7 @@ If you see "WARNING" messages from the CAN simulator, your implementation has er
 
 ## Submission
 
-Submit these files with your submission of the aptitude test:
+Include these files with your submission of the aptitude test:
 
 - `apt-assessment/main.c`
 - `apt-assessment/torque_control.c`
