@@ -4,9 +4,6 @@
 
 This assessment aims to gauge your current technical ability and understanding of embedded systems concepts through a practical introduction of what we are doing at Sunswift racing. You will be tasked to design and develop a practical implementation of **Inter-Process Communication (IPC)** mechanisms using native POSIX IPCs. You will work with a simulated automotive sensor and an simulated CAN bus as well.
 
-> **Disclaimer:**
-> While this assessment is to be completed in **C** and is intentionally simplified for evaluation purposes; within Sunswift, we use **C++** coupled with different IPCs, tools, and far more advanced software abstraction layers. This test focuses on core embedded/IPC concepts and does **not** represent the full complexity, best practices, or modern development style of an actual Sunswift embedded systems project.
-
 ## Quick Start
 
 1. **Read the instructions** carefully in this README
